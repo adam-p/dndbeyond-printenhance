@@ -2,6 +2,8 @@
 
 ## Installation
 
+Chrome/Brave: Install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/ddbeyond-print-enhancer/fdajjhifhjdcdfgdkefalgombegclabc).
+
 ## Instructions for use
 
 1. View your character sheet.
@@ -9,7 +11,7 @@
 3. Click the D&D Beyond Print Enhancer button on your browser toolbar.
 4. Open the print dialog (ctrl+p/cmd+p).
 5. Print settings:
-  - Probably black and white.
+  - Color: Probably black and white.
   - Margins: minimum.
   - Scale: Default, unless you want to cram more on a page.
   - Headers and footers: deselect.
