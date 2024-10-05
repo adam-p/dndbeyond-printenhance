@@ -1,5 +1,7 @@
 # D&D Beyond Character Sheet Print Enhancer
 
+**This extension is now defunct.** I didn't use it enough (nor did many other people) and it's a pain to keep it updated with changes in the D&D Beyond website.
+
 ## Installation
 
 Chrome/Brave: Install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/ddbeyond-print-enhancer/fdajjhifhjdcdfgdkefalgombegclabc).
